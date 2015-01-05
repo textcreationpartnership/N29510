@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:039308_0000_10141CADD03C76B0"/>
-            <pb facs="tcp:039308_0001_10141CAFEB2541F0"/>
+            <pb facs="unknown:039308_0000_10141CADD03C76B0"/>
+            <pb facs="unknown:039308_0001_10141CAFEB2541F0"/>
             <head>UPON THE DEATH of that Reverend and Aged Man of GOD, Mr. SAMUEL ARNOLD, Paſtor of the CHURCH at <hi>Marſhfield,</hi> who deceaſed in the 71<hi>st</hi> Year of his Age, and of his Miniſtry the 36<hi>th,</hi>
                <hi>September</hi> 1. 1693.</head>
             <lg n="1">
@@ -469,7 +469,7 @@
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:039308_0002_10141CC5754CA358"/>
+            <pb facs="unknown:039308_0002_10141CC5754CA358"/>
             <head>MR. Samuel Arnold, The late faithful Preacher of the GOSPEL at <hi>Marſhfield,</hi> Who left Earth for Heaven, <hi>September</hi> 1. 1693.
 his laſt FAREWELL to the World. Written by himſelf not long before his Death.</head>
             <l>V<gap reason="illegible: indecipherable" extent="2 letters">
